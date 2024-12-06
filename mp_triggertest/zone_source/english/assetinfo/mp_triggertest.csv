@@ -1,5 +1,0 @@
-index,type,name,resident,streamed,parentStack
-1,string,,0,0,||assetlist
-2,sound,mp_triggertest.en,44,0,||assetlist
-3,keyvaluepairs,en_mp_triggertest,1457,0,||assetlist
-4,assetlist,,32,0,
